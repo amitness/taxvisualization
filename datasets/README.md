@@ -7,4 +7,4 @@ Tools used for scraping:
 - Project Naptha: https://projectnaptha.com/
      An OCR app to extract text from images.
 
-You can also find the spreadsheets at https://drive.google.com/folderview?id=0BxDmt8BBFOIqSnJQZ29fdjIyWEU&usp=drive_web
+You can also find the spreadsheets at http://goo.gl/mu8ptr
