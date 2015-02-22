@@ -6,6 +6,7 @@
 You can have a look at the live demo at: http://taxv.16mb.com/
 
 Installation:
+
 1. Setup a wordpress blog.
 2. Install and activate Interface Theme: https://wordpress.org/themes/interface
 3. Install "Wordpress Visualizer" plugin https://wordpress.org/plugins/visualizer/
