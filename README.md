@@ -13,4 +13,3 @@ Installation:
 5. Activate "Disable Comments" plugin and goto Settings>Disable Comments and select " Everywhere" option.
 6. From Dashboard, goto tools>import and import the visualizations.xml file.
 7. From Settings>Reading, set Front page displays to " A static page" and select front page as "Highest Tax Payers of Nepal".
- 
