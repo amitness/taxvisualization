@@ -18,7 +18,7 @@ It was made at the hackathon orgranised by YoungInnovations on the occasion of "
 7. From Settings>Reading, set Front page displays to " A static page" and select front page as "Highest Tax Payers of Nepal".
 
 ###Authors:
-* Amit Chaudhary
-* Ashish Ghimire
-* Ashwin Neupane
-* Kiran Koirala
+* [Amit Chaudhary](https://github.com/studenton)
+* [Ashish Ghimire](https://github.com/deAshish)
+* [Ashwin Neupane]()
+* [Kiran Koirala](https://github.com/koiralakiran1)
