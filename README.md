@@ -7,7 +7,7 @@ You can have a look at the live demo at: http://taxv.16mb.com/
 
 It was made at the hackathon orgranised by YoungInnovations on the occasion of "Open Data Day 2015" at DeerWalk Institute of Technology, Sifal.
 
-Installation:
+###Installation:
 
 1. Setup a wordpress blog.
 2. Install and activate Interface Theme: https://wordpress.org/themes/interface
@@ -17,8 +17,8 @@ Installation:
 6. From Dashboard, goto tools>import and import the visualizations.xml file.
 7. From Settings>Reading, set Front page displays to " A static page" and select front page as "Highest Tax Payers of Nepal".
 
-Team Members:
-Amit Chaudhary
-Ashish Ghimire
-Ashwin Neupane
-Kiran Koirala
+###Authors:
+* Amit Chaudhary
+* Ashish Ghimire
+* Ashwin Neupane
+* Kiran Koirala
