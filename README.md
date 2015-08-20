@@ -20,5 +20,5 @@ It was made at the hackathon orgranised by YoungInnovations on the occasion of "
 ###Authors:
 * [Amit Chaudhary](https://github.com/studenton)
 * [Ashish Ghimire](https://github.com/deAshish)
-* [Ashwin Neupane]()
+* [Ashwin Neupane](https://github.com/Ashwin101)
 * [Kiran Koirala](https://github.com/koiralakiran1)
