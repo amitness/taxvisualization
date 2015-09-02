@@ -5,7 +5,7 @@
 
 You can have a look at the live demo at: http://taxv.16mb.com/
 
-It was made at the hackathon orgranised by YoungInnovations on the occasion of "Open Data Day 2015" at DeerWalk Institute of Technology, Sifal.
+It was made at the hackathon orgranised by YoungInnovations on the occasion of **"Open Data Day 2015"** at DeerWalk Institute of Technology, Sifal.
 
 ###Installation:
 
