@@ -19,9 +19,3 @@ It was made at the hackathon orgranised by YoungInnovations on the occasion of *
 
 ###Datasets:
 The tax data scraped by us is inside the datasets folder. Feel free to use it and contribute.
-
-###Authors:
-* [Amit Chaudhary](https://github.com/studenton)
-* [Ashish Ghimire](https://github.com/deAshish)
-* [Ashwin Neupane](https://github.com/Ashwin101)
-* [Kiran Koirala](https://github.com/koiralakiran1)
